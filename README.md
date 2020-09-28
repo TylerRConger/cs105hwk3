@@ -1,4 +1,5 @@
 # cs105hwk3
 ### Group Members
-* Tyler Conger
-* Alex Christmas
+* Tyler Conger - trc266
+* Alex Christmas - aec547
+
